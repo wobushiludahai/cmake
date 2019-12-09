@@ -1,0 +1,3 @@
+/home/luhai/Desktop/git/cmake/part1/CMakeFiles/rebuild_cache.dir
+/home/luhai/Desktop/git/cmake/part1/CMakeFiles/testcmake.dir
+/home/luhai/Desktop/git/cmake/part1/CMakeFiles/edit_cache.dir

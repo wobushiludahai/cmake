@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/othertestbuild.dir/othertest.c.o CMakeFiles/othertestbuild.dir/test.c.o  -o othertestbuild 
